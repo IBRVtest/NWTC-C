@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "t": 1715399203,  // Current Unix timestamp
-  "v": "1.3.1",     // Setting to "1.3.1" blocks all users
+  "t": 1715399203,
+  "v": "1.3.1",
   "data": {
     "welcome": "Welcome to GeoScrape 1.3",
     "tips": ["Try the new export feature", "Check out the tutorials"]
